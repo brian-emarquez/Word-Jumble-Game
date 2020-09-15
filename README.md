@@ -14,4 +14,4 @@
   
 </p>
   
-![python](./images/suffle.PNG)
+![python](./images/shuffle.PNG)
