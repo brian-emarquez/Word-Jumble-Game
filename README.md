@@ -1,4 +1,4 @@
-<h2 align="center">Word-Jumble-Game &nbsp;⌨️&nbsp;</h2>
+<h2 align="center">Word-Jumble-Game &nbsp;🎮&nbsp;</h2>
 
 <p align="center">
   
